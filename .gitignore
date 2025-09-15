@@ -1,10 +1,10 @@
-
-
+# Python/Django.gitignore
 /media
 /staticfiles
 *.pyc
 __pycache__/
 .env
 *.sqlite3
+db.sqlite3
 
 
